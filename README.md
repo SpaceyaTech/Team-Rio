@@ -60,7 +60,9 @@ Repository For Team Rio
 <p float="left">
 <img src="screenshots/push-1.JPG" width="600px" />
 </p>
+
 ## <p>for the team-rio repository we do the following:</p>
+
 * we add the remote link ```git remote add origin https://github.com/SpaceyaTech/Team-Rio.git```
 * then we push our code ```git push -u origin <branch name>```
 
