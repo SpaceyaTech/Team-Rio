@@ -27,6 +27,9 @@ Repository For Team Rio
 *  check the status. ```git status```
 *  create branches. ```git checkout -b <new branch name>```
 *  change into a different branch.  ```git branch <branch name>```
+<p float="left">
+<img src="screenshots/push-2.jpg" width="600px" />
+</p>
 
 > When cloning a git repository onto your local machine. ```(HTTPS option)```
 *  launch terminal ``` ctrl + Alt + T ```
@@ -35,7 +38,7 @@ Repository For Team Rio
 *  then change into the project directory ```cd Project```
 * identify the repository you would wish to clone from github
 <p float="left">
-<img src="screenshots/clone-1.jpg" width="200px" />
+<img src="screenshots/clone-1.jpg" width="600px" />
 </p>
 
 * copy the url link to your terminal window ```git clone https://github.com/SpaceyaTech/Team-Rio.git```
@@ -54,6 +57,9 @@ Repository For Team Rio
 > for this case we will only use ```remote``` and ```push```
 * we first set the remote link ```git remote add <name> <url>``` 
 * then push using ```git push <remote> <branch>```
+<p float="left">
+<img src="screenshots/push-1.jpg" width="600px" />
+</p>
 ## <p>for the team-rio repository we do the following:</p>
 * we add the remote link ```git remote add origin https://github.com/SpaceyaTech/Team-Rio.git```
 * then we push our code ```git push -u origin <branch name>```
