@@ -28,7 +28,7 @@ Repository For Team Rio
 *  create branches. ```git checkout -b <new branch name>```
 *  change into a different branch.  ```git branch <branch name>```
 <p float="left">
-<img src="screenshots/push-2.jpg" width="600px" />
+<img src="screenshots/push-2.JPG" width="600px" />
 </p>
 
 > When cloning a git repository onto your local machine. ```(HTTPS option)```
@@ -58,9 +58,11 @@ Repository For Team Rio
 * we first set the remote link ```git remote add <name> <url>``` 
 * then push using ```git push <remote> <branch>```
 <p float="left">
-<img src="screenshots/push-1.jpg" width="600px" />
+<img src="screenshots/push-1.JPG" width="600px" />
 </p>
+
 ## <p>for the team-rio repository we do the following:</p>
+
 * we add the remote link ```git remote add origin https://github.com/SpaceyaTech/Team-Rio.git```
 * then we push our code ```git push -u origin <branch name>```
 
