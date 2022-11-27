@@ -33,7 +33,7 @@ Repository For Team Rio
 *  create and switch to a branch ```git checkout -b <new branch name>```
 
 <p float="left">
-<img src="screenshots/push-2.jpg" width="600px" />
+<img src="screenshots/push-2.JPG" width="600px" />
 </p>
 
 > When cloning a git repository onto your local machine. ```(HTTPS option)```
@@ -65,7 +65,7 @@ Repository For Team Rio
 * else you can add the remote link by typing ```git remote add <name> <url>``` 
 * then push using ```git push <remote name> <branch>```
 <p float="left">
-<img src="screenshots/push-1.jpg" width="600px" />
+<img src="screenshots/push-1.JPG" width="600px" />
 </p>
 ## <p>for the team-rio repository we do the following:</p>
 
